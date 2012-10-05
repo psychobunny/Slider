@@ -1,0 +1,22 @@
+.slider-handle {
+	border: 1px solid black;
+	background: black;
+	cursor: pointer;
+	position: absolute;
+}
+
+.slider-body {
+	border-bottom: 1px solid black;
+	position: relative;
+	
+}
+
+body {
+	width: 100%;
+	height: 100%;
+	margin: 50px;
+}
+
+#slider {
+	
+}
